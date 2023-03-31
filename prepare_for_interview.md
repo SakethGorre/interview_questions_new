@@ -1,6 +1,6 @@
 ## How to prepare for DevOps/SRE/Production Engineer interviews?
  
-Note: the following is opinionated.
+Note: the following is opinionated
  
 ### Skills you should have
  
